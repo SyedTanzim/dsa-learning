@@ -1,11 +1,12 @@
 class Solution:
     def numUniqueEmails(self, emails: list[str]) -> int:
-        validEmails = []
-        count = 0
+        validEmails = set()
+        
         for email in emails:
             localName = ""
             domainName = ""
             flag = False
+
             for i, ch in enumerate(email):
                 if "@" not in localName:
                     if flag == True and ch != "@":
@@ -25,7 +26,5 @@ class Solution:
 
                 finalEmail = localName+domainName
             
-            if finalEmail not in validEmails:
-                validEmails.append(finalEmail)
-                count += 1
-        return count
+            validEmails.add(finalEmail)
+        return len(validEmails)
