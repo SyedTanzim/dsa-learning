@@ -1,6 +1,6 @@
 class Solution:
     def maximumWealth(self, accounts: list[list[int]]) -> int:
-        maxWealth = 0;
+        maxWealth = 0
 
         for account in accounts:
             wealth = 0
