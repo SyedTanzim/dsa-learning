@@ -4,21 +4,13 @@ class Solution:
         charFreq = {}
 
         for char in text:
-            if char == 'b' or char == 'a' or char == 'l' or char == 'o' or char == 'n':
+            if char in "balloon":
                 charFreq[char] = charFreq.get(char, 0) + 1
         
-        for char in 'balon':
-            if char not in charFreq:
-                return 0
-
-        maxBaloon = []
-
-        for key in charFreq:
-            if key == 'l' or key == 'o': 
-                maxBaloon.append(charFreq[key] // 2)
-            else:
-                maxBaloon.append(charFreq[key] // 1)
-        
-        print(charFreq)
-        print(maxBaloon)
-        return min(maxBaloon)
+        return min(
+            charFreq.get('b', 0),
+            charFreq.get('a', 0),
+            charFreq.get('l', 0) // 2,
+            charFreq.get('o', 0) // 2,
+            charFreq.get('n', 0),
+        )
