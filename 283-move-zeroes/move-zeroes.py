@@ -4,17 +4,10 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         
-        for i in range(len(nums)):
-            j = i+1
+        j = 0
 
+        for i in range(len(nums)):
             if nums[i] != 0:
-                continue
-            
-            while j < len(nums):
-                if nums[j] == 0:
-                    j += 1
-                else:
-                    nums[i], nums[j] = nums[j], nums[i]
-                    break
+                nums[j], nums[i] = nums[i], nums[j]
+                j += 1
         
-        return nums
