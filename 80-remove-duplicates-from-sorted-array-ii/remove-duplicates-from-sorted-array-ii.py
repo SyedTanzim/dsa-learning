@@ -7,10 +7,11 @@ class Solution:
         last = nums[0]
 
         for i in range(1, len(nums)):
-            if nums[i] != last and freq < 2:
+            if nums[i] != last:
                 nums[index] = nums[i]
-                count += 1
                 last = nums[i]
+                freq = 1
+                count += 1
                 index += 1
             
             elif nums[i] == last and freq < 2:
@@ -19,14 +20,7 @@ class Solution:
                 count += 1
                 index += 1
             
-            elif nums[i] != last and freq >= 2:
-                nums[index] = nums[i]
-                last = nums[i]
-                freq = 1
-                count += 1
-                index += 1
-
-            elif nums[i] == last and freq >= 2:
+            else:
                 continue
         
         return count
