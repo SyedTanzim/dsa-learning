@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2556-convert-the-temperature](https://github.com/SyedTanzim/dsa-learning/tree/master/2556-convert-the-temperature) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/SyedTanzim/dsa-learning/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
