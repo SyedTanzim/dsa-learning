@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/SyedTanzim/dsa-learning/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SyedTanzim/dsa-learning/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SyedTanzim/dsa-learning/tree/master/0016-3sum-closest) |
+| [0713-subarray-product-less-than-k](https://github.com/SyedTanzim/dsa-learning/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +31,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SyedTanzim/dsa-learning/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/SyedTanzim/dsa-learning/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/SyedTanzim/dsa-learning/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/SyedTanzim/dsa-learning/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
