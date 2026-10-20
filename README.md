@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SyedTanzim/dsa-learning/tree/master/0009-palindrome-number) |
 | [2556-convert-the-temperature](https://github.com/SyedTanzim/dsa-learning/tree/master/2556-convert-the-temperature) |
 ## Linked List
 |  |
