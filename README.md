@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/SyedTanzim/dsa-learning/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SyedTanzim/dsa-learning/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SyedTanzim/dsa-learning/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/SyedTanzim/dsa-learning/tree/master/0075-sort-colors) |
 | [0496-next-greater-element-i](https://github.com/SyedTanzim/dsa-learning/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/SyedTanzim/dsa-learning/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/SyedTanzim/dsa-learning/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SyedTanzim/dsa-learning/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SyedTanzim/dsa-learning/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/SyedTanzim/dsa-learning/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SyedTanzim/dsa-learning/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SyedTanzim/dsa-learning/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/SyedTanzim/dsa-learning/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -57,4 +60,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SyedTanzim/dsa-learning/tree/master/0496-next-greater-element-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SyedTanzim/dsa-learning/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SyedTanzim/dsa-learning/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
