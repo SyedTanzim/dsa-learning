@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/SyedTanzim/dsa-learning/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SyedTanzim/dsa-learning/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/SyedTanzim/dsa-learning/tree/master/0075-sort-colors) |
+| [0844-backspace-string-compare](https://github.com/SyedTanzim/dsa-learning/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SyedTanzim/dsa-learning/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/SyedTanzim/dsa-learning/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SyedTanzim/dsa-learning/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/SyedTanzim/dsa-learning/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/SyedTanzim/dsa-learning/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
