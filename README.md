@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/SyedTanzim/dsa-learning/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SyedTanzim/dsa-learning/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/SyedTanzim/dsa-learning/tree/master/0075-sort-colors) |
+| [0219-contains-duplicate-ii](https://github.com/SyedTanzim/dsa-learning/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/SyedTanzim/dsa-learning/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/SyedTanzim/dsa-learning/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/SyedTanzim/dsa-learning/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/SyedTanzim/dsa-learning/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/SyedTanzim/dsa-learning/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/SyedTanzim/dsa-learning/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
