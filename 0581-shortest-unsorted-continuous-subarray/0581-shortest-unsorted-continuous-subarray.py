@@ -9,7 +9,6 @@ class Solution:
             if currentMax < nums[i]:
                 currentMax = nums[i]
             elif currentMax > nums[i]:
-
                 end = i
 
         for i in range(len(nums)-2, -1, -1):
@@ -18,7 +17,6 @@ class Solution:
             elif currentMin < nums[i]:
                 start = i
 
-        print(start,end)
         if start == 0 and end == 0:
             return 0
         return end - start + 1
