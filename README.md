@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0496-next-greater-element-i](https://github.com/SyedTanzim/dsa-learning/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SyedTanzim/dsa-learning/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/SyedTanzim/dsa-learning/tree/master/0713-subarray-product-less-than-k) |
+| [1929-concatenation-of-array](https://github.com/SyedTanzim/dsa-learning/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,4 +91,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/SyedTanzim/dsa-learning/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/SyedTanzim/dsa-learning/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
