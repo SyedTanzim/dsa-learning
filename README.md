@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SyedTanzim/dsa-learning/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0705-design-hashset](https://github.com/SyedTanzim/dsa-learning/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SyedTanzim/dsa-learning/tree/master/0706-design-hashmap) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0496-next-greater-element-i](https://github.com/SyedTanzim/dsa-learning/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SyedTanzim/dsa-learning/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0705-design-hashset](https://github.com/SyedTanzim/dsa-learning/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SyedTanzim/dsa-learning/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/SyedTanzim/dsa-learning/tree/master/0713-subarray-product-less-than-k) |
 | [1929-concatenation-of-array](https://github.com/SyedTanzim/dsa-learning/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0219-contains-duplicate-ii](https://github.com/SyedTanzim/dsa-learning/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/SyedTanzim/dsa-learning/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/SyedTanzim/dsa-learning/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SyedTanzim/dsa-learning/tree/master/0706-design-hashmap) |
 ## Stack
 |  |
 | ------- |
@@ -99,8 +102,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/SyedTanzim/dsa-learning/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SyedTanzim/dsa-learning/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/SyedTanzim/dsa-learning/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SyedTanzim/dsa-learning/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
